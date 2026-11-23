@@ -2,7 +2,7 @@
 
 A dark-theme, multi-page **Power BI** hospitality analytics dashboard built to monitor guest satisfaction across multiple survey channels (**WhatsApp** and **IVRS**) and service dimensions—highlighting the **Room Cleanliness** executive overview.
 
-![Rooms Feedback Executive Overview](assets/rooms-feedback-cleanliness.png)
+![Rooms Feedback Executive Overview](assets/hotel services.png)
 
 ---
 
